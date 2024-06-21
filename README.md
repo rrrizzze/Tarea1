@@ -17,4 +17,4 @@ Para instalar este proyecto, sigue estos pasos:
 
 1. Clona el repositorio:
    ```sh
-   git clone https://github.com/usuario/proyecto-ejemplo.git
+(https://github.com/rrrizzze/Tarea1.git)
