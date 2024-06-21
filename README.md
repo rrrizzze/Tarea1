@@ -1,7 +1,7 @@
-# Proyecto Ejemplo
+# Tarea 1
 
 ## Descripción
-Este es un proyecto de ejemplo para demostrar la documentación en un archivo README.md usando la sintaxis de Markdown.
+Este es un proyecto de ejemplo para la Tarea 1, que demuestra la documentación en un archivo README.md usando la sintaxis de Markdown.
 
 ## Características
 - Fácil de usar
@@ -17,4 +17,4 @@ Para instalar este proyecto, sigue estos pasos:
 
 1. Clona el repositorio:
    ```sh
-[(https://github.com/rrrizzze/Tarea1.git)]
+   git clone https://github.com/rrrizzze/Tarea1.git
