@@ -19,8 +19,9 @@ Para instalar este proyecto, sigue estos pasos:
    ```sh
    git clone https://github.com/rrrizzze/Tarea1.git
  
-### Solar System Exploration, 1950s – 1960s
+### Progreso
 
-- [ ] Mercury
-- [x] Venus
-- [x] Earth (Orbit/Moon)
+- [x] Estructura del proyecto
+- [ ] Ejemplos de Uso
+- [ ] Mejor documentacion
+
